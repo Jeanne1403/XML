@@ -1,1 +1,21 @@
+<?xml version "1.0" encoding="UTF-8"?>
+<Bug report>
+<Project>WNP</Project>
+<Summary>Поле ввода данных заблокировано для внесения информации</Summary>
+<STR> 
+  <STR>Открыть главную страницу wnp-deutschland.de</STR> 
+  <STR>Прокрутить до конца страницы</STR> 
+  <STR>Нажать на поле ввода</STR> 
+ </STR> 
+ <Actual Result>Данные не заносятся в поле ввода</Actual Result>
+ <Expected Result>Поле ввода данных работает корректно</Expected Result>
+ <Environment>Microsoft Edge</Environment>
+ <Bild>95.0.1020.53</Bild>
+ <Priority>High</Priority>
+ <Severity>Major</Severity>
+ <Component>Главная страница</Component>
+  <Reporter>Морозова</Reporter>
+ <Assigned to>Сидоров</Assigned to>
+ <Attachment></Attachment>
+</Bug report>
 
